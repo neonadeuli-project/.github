@@ -40,7 +40,16 @@ AI 모바일 국가 유산 해설 서비스
 ## 👨‍👩‍👧‍👦 팀원 소개
 
 <table >
-    <tr height="30px">
+  <tr height="30px">
+    <td align="center" width="160px">
+      <b>PM</b>
+    </td>
+    <td align="center" width="160px">
+      <b>PM</b>
+    </td>
+    <td align="center" width="160px">
+      <b>Designer</b>
+    </td>
     <td align="center" width="160px">
       <b>Backend</b>
     </td>
@@ -53,13 +62,22 @@ AI 모바일 국가 유산 해설 서비스
   </tr>
   <tr height="130px">
     <td align="center" width="160px">
-      <a href="https://github.com/KimGaeun0806"><img src="https://avatars.githubusercontent.com/u/77084379?v=4" style="border-radius:50%"/></a>
+      <a><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
     </td>
     <td align="center" width="160px">
-      <a href="https://github.com/MinboyKim"><img src="https://avatars.githubusercontent.com/u/67579479?v=4" style="border-radius:50%" /></a>
+      <a><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
     </td>
     <td align="center" width="160px">
-      <a href="https://github.com/qkrwogk"><img src="https://avatars.githubusercontent.com/u/119389577?v=4" style="border-radius:50%"/></a>
+      <a><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
+    </td>
+    <td align="center" width="160px">
+      <a href="https://github.com/viaunixue"><img src="https://avatars.githubusercontent.com/u/77084379?v=4" style="border-radius:50%"/></a>
+    </td>
+    <td align="center" width="160px">
+      <a href="https://github.com/swwho96"><img src="https://avatars.githubusercontent.com/u/67579479?v=4" style="border-radius:50%" /></a>
+    </td>
+    <td align="center" width="160px">
+      <a href="https://github.com/PracticeKJY"><img src="https://avatars.githubusercontent.com/u/119389577?v=4" style="border-radius:50%"/></a>
     </td>
   </tr>
   <tr height="30px">
