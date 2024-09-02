@@ -41,35 +41,35 @@ AI 모바일 국가 유산 해설 서비스
 
 <table >
     <tr height="30px">
-    <td align="center" width="180px">
+    <td align="center" width="160px">
       <b>Backend</b>
     </td>
-    <td align="center" width="180px">
+    <td align="center" width="160px">
       <b>Data Engineering</b>
     </td>
-    <td align="center" width="180px">
+    <td align="center" width="160px">
       <b>Frontend</b>
     </td>
   </tr>
   <tr height="130px">
-    <td align="center" width="130px">
+    <td align="center" width="160px">
       <a href="https://github.com/KimGaeun0806"><img src="https://avatars.githubusercontent.com/u/77084379?v=4" style="border-radius:50%"/></a>
     </td>
-    <td align="center" width="130px">
+    <td align="center" width="160px">
       <a href="https://github.com/MinboyKim"><img src="https://avatars.githubusercontent.com/u/67579479?v=4" style="border-radius:50%" /></a>
     </td>
-    <td align="center" width="130px">
+    <td align="center" width="160px">
       <a href="https://github.com/qkrwogk"><img src="https://avatars.githubusercontent.com/u/119389577?v=4" style="border-radius:50%"/></a>
     </td>
   </tr>
-  <tr height="50px">
-    <td align="center" width="130px">
+  <tr height="30px">
+    <td align="center" width="160px">
       <a href="https://github.com/viaunixue">정종현</a>
     </td>
-    <td align="center" width="130px">
+    <td align="center" width="160px">
       <a href="https://github.com/swwho96">서승우</a>
     </td>
-    <td align="center" width="130px">
+    <td align="center" width="160px">
       <a href="https://github.com/PracticeKJY">김종엽</a>
     </td>
   </tr>
