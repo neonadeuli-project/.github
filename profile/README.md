@@ -82,6 +82,15 @@ AI 모바일 국가 유산 해설 서비스
   </tr>
   <tr height="30px">
     <td align="center" width="160px">
+      <a href="https://github.com/viaunixue">김서영</a>
+    </td>
+    <td align="center" width="160px">
+      <a href="https://github.com/viaunixue">한소현</a>
+    </td>
+    <td align="center" width="160px">
+      <a href="https://github.com/viaunixue">이연지</a>
+    </td>
+    <td align="center" width="160px">
       <a href="https://github.com/viaunixue">정종현</a>
     </td>
     <td align="center" width="160px">
