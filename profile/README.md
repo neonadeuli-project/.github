@@ -60,15 +60,15 @@ AI 모바일 국가 유산 해설 서비스
       <b>Frontend</b>
     </td>
   </tr>
-  <tr height="130px">
+  <tr height="120px">
     <td align="center" width="160px">
-      <a><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
+      <a href="https://www.notion.so/a2c3f5fd98cb4232a869932f1e9d1d67?pvs=4"><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
     </td>
     <td align="center" width="160px">
-      <a><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
+      <a href="https://www.notion.so/a2c3f5fd98cb4232a869932f1e9d1d67?pvs=4"><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
     </td>
     <td align="center" width="160px">
-      <a><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
+      <a href="https://www.notion.so/a2c3f5fd98cb4232a869932f1e9d1d67?pvs=4"><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
     </td>
     <td align="center" width="160px">
       <a href="https://github.com/viaunixue"><img src="https://avatars.githubusercontent.com/u/77084379?v=4" style="border-radius:50%"/></a>
@@ -82,13 +82,13 @@ AI 모바일 국가 유산 해설 서비스
   </tr>
   <tr height="30px">
     <td align="center" width="160px">
-      <a href="https://github.com/viaunixue">김서영</a>
+      <a href="https://www.notion.so/a2c3f5fd98cb4232a869932f1e9d1d67?pvs=4">김서영</a>
     </td>
     <td align="center" width="160px">
-      <a href="https://github.com/viaunixue">한소현</a>
+      <a href="https://www.notion.so/a2c3f5fd98cb4232a869932f1e9d1d67?pvs=4">한소현</a>
     </td>
     <td align="center" width="160px">
-      <a href="https://github.com/viaunixue">이연지</a>
+      <a href="https://www.notion.so/a2c3f5fd98cb4232a869932f1e9d1d67?pvs=4">이연지</a>
     </td>
     <td align="center" width="160px">
       <a href="https://github.com/viaunixue">정종현</a>
