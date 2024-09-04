@@ -62,13 +62,13 @@ AI 모바일 국가 유산 해설 서비스
   </tr>
   <tr height="120px">
     <td align="center" width="160px">
-      <a href="https://www.notion.so/a2c3f5fd98cb4232a869932f1e9d1d67?pvs=4"><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
+      <a href="https://github.com/Kim-donE"><img src="https://avatars.githubusercontent.com/u/180167009?v=4" style="border-radius:50%"/></a>
     </td>
     <td align="center" width="160px">
-      <a href="https://www.notion.so/a2c3f5fd98cb4232a869932f1e9d1d67?pvs=4"><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
+      <a href="https://www.notion.so/a2c3f5fd98cb4232a869932f1e9d1d67?pvs=4"><img src="https://avatars.githubusercontent.com/u/79568594?v=4" style="border-radius:30%"/></a>
     </td>
     <td align="center" width="160px">
-      <a href="https://www.notion.so/a2c3f5fd98cb4232a869932f1e9d1d67?pvs=4"><img src="https://github.com/user-attachments/assets/109e5efc-6868-4f56-9bda-52b97c6d197c" style="border-radius:50%"/></a>
+      <a href="https://github.com/lee-yeonji"><img src="https://avatars.githubusercontent.com/u/101976270?v=4" style="border-radius:50%"/></a>
     </td>
     <td align="center" width="160px">
       <a href="https://github.com/viaunixue"><img src="https://avatars.githubusercontent.com/u/77084379?v=4" style="border-radius:50%"/></a>
