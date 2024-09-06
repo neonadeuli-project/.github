@@ -59,6 +59,9 @@ AI 모바일 국가 유산 해설 서비스
     <td align="center" width="160px">
       <b>Frontend</b>
     </td>
+      <td align="center" width="160px">
+      <b>Frontend</b>
+    </td>
   </tr>
   <tr height="120px">
     <td align="center" width="160px">
@@ -79,6 +82,9 @@ AI 모바일 국가 유산 해설 서비스
     <td align="center" width="160px">
       <a href="https://github.com/PracticeKJY"><img src="https://avatars.githubusercontent.com/u/119389577?v=4" style="border-radius:50%"/></a>
     </td>
+    <td align="center" width="160px">
+      <a href="https://github.com/Miaash"><img src="https://avatars.githubusercontent.com/u/98681659?v=4" style="border-radius:50%"/></a>
+    </td>
   </tr>
   <tr height="30px">
     <td align="center" width="160px">
@@ -98,6 +104,9 @@ AI 모바일 국가 유산 해설 서비스
     </td>
     <td align="center" width="160px">
       <a href="https://github.com/PracticeKJY">김종엽</a>
+    </td>
+    <td align="center" width="160px">
+      <a href="https://github.com/Miaash">홍성아</a>
     </td>
   </tr>
 </table>
