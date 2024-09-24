@@ -27,7 +27,7 @@ AI 모바일 국가 유산 해설 서비스
 
 [✨ <너나들이> 사용해보기](https://www.xn--910b8hh6hdsz.com/)
 
-[🔗 Wiki 바로가기](https://github.com/neonadeuli-project/Neonadeuli-Backend/wiki)
+[🔗 Wiki 바로가기](https://github.com/neonadeuli-project/neonadeuli-main/wiki)
 
 <br>
 
